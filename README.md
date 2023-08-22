@@ -7,7 +7,7 @@ This is a template for deploying Nexus Repository Manager behind an NGINX revers
 - Web UI accessible via https://localhost
 - Docker Hub proxy registry accessible via https://localhost:5000
 
-## Operations fff
+## Operations 
 
 To create and run the Nginx proxy, Nexus Repository Manager and DockerHub proxy, run:
 
