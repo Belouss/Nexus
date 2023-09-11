@@ -1,4 +1,4 @@
-# Nexus Repository Manager with Docker Supportt
+# Nexus Repository Manager with Docker Supportt!!
 
 This is a template for deploying Nexus Repository Manager behind an NGINX reverse proxy.
 
